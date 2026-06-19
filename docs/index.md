@@ -7,39 +7,12 @@
 ## 中野信子氏「生きてるだけで丸儲け」は生物学的にも正しい
 
 > 脳科学を通して伝えたいことはシンプルで  
-> **「生きている者が勝ち！」** ということです。
+> **「生きている者が勝ち！」**
 
-ほとんどの生物の目的というのは、  
-「生き延びること」と「子孫を残すこと」です。
+ほとんどの生物の目的というのは、生き延びることと子孫を残すことです。
 
-ですが人間だけはそうではありません。  
-「ひと花咲かせよう！」みたいな考えがあり、これがすごく特異的です。
+## Images
+![My Image](images.jpeg)
 
-## ポイント
-- 生き延びること
-- 子孫を残すこと
-- 人間は夢や挑戦も重視する
-
-## 順番
-1. 生きる
-2. 挑戦する
-3. 成長する
-
-## コード例
-```python
-print("生きている者が勝ち！")
-```
-
-## 表
-| 項目 | 内容 |
-|------|------|
-| 生物 | 生き延びる |
-| 人間 | 挑戦する |
-
-## リンク
-:contentReference[oaicite:0]{index=0}
-
-## 脚注
-この文章は中野信子氏の考えを参考にしている[^1]
-
-[^1]: 生物学・脳科学の視点からの考え方
+## Youtube Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oepiMy_18zg?si=1vIcg9hbNzarH4i9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
