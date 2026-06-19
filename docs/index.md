@@ -12,8 +12,6 @@
 ほとんどの生物の目的というのは、生き延びることと子孫を残すことです。
 
 ## Images
-![My Image](../images.jpeg)
-## Images
 ![Minion](https://octodex.github.com/images/minion.png)
 
 ## Youtube Video
