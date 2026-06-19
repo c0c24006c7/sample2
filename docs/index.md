@@ -12,7 +12,7 @@
 ほとんどの生物の目的というのは、生き延びることと子孫を残すことです。
 
 ## Images
-![My Image](images.jpeg)
+![My Image](../images.jpeg)
 
 ## Youtube Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oepiMy_18zg?si=1vIcg9hbNzarH4i9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
